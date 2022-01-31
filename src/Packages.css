@@ -1,0 +1,10 @@
+.packages {
+  background-color: var(--ash);
+  padding: 20px;
+}
+
+.packages__Cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
