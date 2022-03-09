@@ -19,5 +19,4 @@ You may also see any lint errors in the console.
 Builds the app for production to the `build` folder.\
 
 ### `Check out the demo`
-
-Your app is ready to be deployed!
+https://clean-uper.netlify.app/
